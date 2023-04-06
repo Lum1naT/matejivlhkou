@@ -3473,15 +3473,15 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-tAAem15b01 {
+.cid-tAFDMuZl1V {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-tAAem15b01 .mbr-fallback-image.disabled {
+.cid-tAFDMuZl1V .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tAAem15b01 .mbr-fallback-image {
+.cid-tAFDMuZl1V .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3490,33 +3490,73 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tAAem15b01 .content-wrapper {
+.cid-tAFDMuZl1V .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-tAFDMuZl1V .row {
+    flex-direction: column-reverse;
+  }
+  .cid-tAFDMuZl1V .image-wrapper {
+    margin-bottom: 2rem;
+  }
+  .cid-tAFDMuZl1V .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tAFDMuZl1V .card-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-tAFDMuZl1V .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tAFDLe2lZl {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tAFDLe2lZl .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tAFDLe2lZl .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tAFDLe2lZl .content-wrapper {
   background: #ffffff;
 }
 @media (max-width: 991px) {
-  .cid-tAAem15b01 .content-wrapper .image-wrapper {
+  .cid-tAFDLe2lZl .content-wrapper .image-wrapper {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-tAAem15b01 .content-wrapper {
+  .cid-tAFDLe2lZl .content-wrapper {
     padding: 1rem;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .cid-tAAem15b01 .content-wrapper {
+  .cid-tAFDLe2lZl .content-wrapper {
     padding: 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-tAAem15b01 .content-wrapper {
+  .cid-tAFDLe2lZl .content-wrapper {
     padding: 5rem 3rem;
   }
-  .cid-tAAem15b01 .content-wrapper .text-wrapper {
+  .cid-tAFDLe2lZl .content-wrapper .text-wrapper {
     padding-left: 2rem;
   }
 }
-.cid-tAAem15b01 .image-wrapper img {
+.cid-tAFDLe2lZl .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
