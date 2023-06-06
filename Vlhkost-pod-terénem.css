@@ -101,7 +101,11 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 179px;
+    min-height: 795px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 269px;
   }
 
   .u-section-1 .u-text-2 {
@@ -109,7 +113,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 333px;
+    min-height: 260px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 730px;

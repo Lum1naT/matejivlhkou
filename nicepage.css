@@ -41466,6 +41466,14 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 116px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 12px;
+  }
+
   .u-header .u-menu-1 {
     margin-top: -49px;
   }
@@ -41509,18 +41517,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-3 {
-  min-height: 250px;
+  min-height: 273px;
 }
 
 .u-footer .u-container-layout-3 {
-  padding: 28px 30px;
+  padding: 28px 17px;
 }
 
 .u-footer .u-btn-1 {
   background-image: none;
   font-size: 1.25rem;
   letter-spacing: 2px;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0 13px;
   padding: 0;
 }
 
@@ -41534,7 +41542,7 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
   font-size: 1.25rem;
   letter-spacing: 2px;
-  margin: 22px auto 0 0;
+  margin: 22px auto 0 13px;
   padding: 0;
 }
 
@@ -41542,6 +41550,15 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.5em;
   margin-right: 10px;
   vertical-align: -3px;
+}
+
+.u-footer .u-btn-3 {
+  background-image: none;
+  font-size: 1.23529rem;
+  padding-left: 0;
+  padding-right: 0;
+  letter-spacing: normal;
+  margin: 21px auto 0 13px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -41557,7 +41574,19 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-3 {
-    min-height: 220px;
+    min-height: 187px;
+  }
+
+  .u-footer .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-footer .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-footer .u-btn-3 {
+    margin-left: 0;
   }
 }
 @media (max-width: 991px) {
@@ -41571,10 +41600,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-layout-cell-2 {
     min-height: 169px;
-  }
-
-  .u-footer .u-layout-cell-3 {
-    min-height: 100px;
   }
 }
 @media (max-width: 767px) {
@@ -41602,10 +41627,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-footer .u-layout-cell-3 {
-    min-height: 165px;
   }
 
   .u-footer .u-container-layout-3 {
@@ -41637,16 +41658,20 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 65px;
   }
 
-  .u-footer .u-layout-cell-3 {
-    min-height: 187px;
-  }
-
   .u-footer .u-btn-1 {
     margin-left: auto;
   }
 
   .u-footer .u-btn-2 {
     margin-left: auto;
+  }
+
+  .u-footer .u-btn-3 {
+    letter-spacing: 2px;
+    margin-top: 20px;
+    margin-left: auto;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 }
 
