@@ -43675,7 +43675,7 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
-        --theme-sheet-width-xl: 1399px;
+        --theme-sheet-width-xl: 1280px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
@@ -44342,21 +44342,23 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 190px;
+    min-height: 128px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 14px;
+    width: 105px;
+    height: 105px;
+    margin-top: 13px;
     margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin: -119px 38px 59px auto;
+    margin: -73px 45px 45px auto;
   }
 
   .u-header .u-hamburger-link-1 {
-    font-size: calc(1em + 18.0001px);
-    padding: 9px 14px;
+    font-size: calc(1em + 1.50005px);
+    padding: 1px 2px;
   }
 
   .u-header .u-btn-1 {

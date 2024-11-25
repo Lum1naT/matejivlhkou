@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 100px;
+  min-height: 599px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -8,11 +8,11 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 100px;
+  min-height: 420px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 60px;
 }
 
 .u-section-1 .u-text-1 {
@@ -28,44 +28,22 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 265px;
-  background-position: 50% 100%;
+  min-height: 420px;
   background-image: url("images/nakres-nad-terenem.png");
+  background-position: 50% 100%;
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 30px;
+  padding: 30px 60px;
 }
 
 @media (max-width: 1399px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 599px;
-  }
-
-  .u-section-1 .u-layout-cell-1 {
-    min-height: 420px;
-  }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 60px;
-    padding-right: 60px;
-  }
-
   .u-section-1 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.5rem;
-  }
-
-  .u-section-1 .u-image-1 {
-    min-height: 420px;
-  }
-
-  .u-section-1 .u-container-layout-2 {
-    padding-left: 60px;
-    padding-right: 60px;
   }
 }
 
@@ -148,7 +126,7 @@
     min-height: 259px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 100px;
+  min-height: 730px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -157,21 +135,21 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 355px;
-  background-position: 50% 50%;
+  min-height: 562px;
   background-image: url("images/image7.png");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 60px;
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 100px;
+  min-height: 562px;
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 30px;
+  padding: 30px 60px;
 }
 
 .u-section-2 .u-text-1 {
@@ -187,28 +165,6 @@
 }
 
 @media (max-width: 1399px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 730px;
-  }
-
-  .u-section-2 .u-image-1 {
-    min-height: 562px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 60px;
-    padding-right: 60px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 562px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 60px;
-    padding-right: 60px;
-  }
-
   .u-section-2 .u-text-1 {
     font-size: 3rem;
   }
