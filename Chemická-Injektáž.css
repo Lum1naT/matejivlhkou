@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 564px;
+  min-height: 100px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -8,9 +8,9 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 418px;
-  background-image: url("images/20220121-105146-596x795.jpeg");
+  min-height: 345px;
   background-position: 50% 50%;
+  background-image: url("images/20220121-105146-596x795.jpeg");
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -18,7 +18,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 418px;
+  min-height: 345px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -38,6 +38,18 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 418px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 418px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 3rem;
   }
@@ -122,7 +134,7 @@
     font-size: 1.25rem;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 627px;
+  min-height: 100px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -131,7 +143,7 @@
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 521px;
+  min-height: 430px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -151,9 +163,9 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 521px;
-  background-image: url("images/received-253660482372574-1256x1675.jpeg");
+  min-height: 430px;
   background-position: 50% 50%;
+  background-image: url("images/received-253660482372574-1256x1675.jpeg");
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -161,12 +173,24 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 627px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 521px;
+  }
+
   .u-section-2 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-2 .u-text-2 {
     font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 521px;
   }
 }
 
@@ -245,7 +269,7 @@
     min-height: 333px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 730px;
+  min-height: 100px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -254,9 +278,9 @@
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 528px;
-  background-image: url("images/podrezani-now-1160x870.webp");
+  min-height: 435px;
   background-position: 50% 50%;
+  background-image: url("images/podrezani-now-1160x870.webp");
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -264,7 +288,7 @@
 }
 
 .u-section-3 .u-layout-cell-2 {
-  min-height: 528px;
+  min-height: 435px;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -284,6 +308,18 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 730px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 528px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 528px;
+  }
+
   .u-section-3 .u-text-1 {
     font-size: 3rem;
   }
@@ -368,7 +404,7 @@
     font-size: 1.25rem;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 517px;
+  min-height: 100px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
@@ -377,7 +413,7 @@
 }
 
 .u-section-4 .u-layout-cell-1 {
-  min-height: 387px;
+  min-height: 319px;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -397,9 +433,9 @@
 }
 
 .u-section-4 .u-image-1 {
-  min-height: 387px;
-  background-image: url("images/0727-kiesol-c-582x448.png");
+  min-height: 319px;
   background-position: 50% 50%;
+  background-image: url("images/0727-kiesol-c-582x448.png");
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -407,12 +443,24 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 517px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 387px;
+  }
+
   .u-section-4 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-4 .u-text-2 {
     font-size: 1.5rem;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 387px;
   }
 }
 

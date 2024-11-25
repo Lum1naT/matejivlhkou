@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 459px;
+  min-height: 100px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -8,7 +8,7 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 329px;
+  min-height: 271px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -28,9 +28,9 @@
 }
 
 .u-section-1 .u-image-1 {
-  min-height: 329px;
-  background-image: url("images/020853on.png");
+  min-height: 271px;
   background-position: 59.3% 34.8%;
+  background-image: url("images/020853on.png");
   background-size: auto 110%;
 }
 
@@ -39,12 +39,24 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 459px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 329px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 329px;
   }
 }
 
@@ -123,7 +135,7 @@
     min-height: 333px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 523px;
+  min-height: 100px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -132,7 +144,7 @@
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 443px;
+  min-height: 365px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -152,9 +164,9 @@
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 443px;
-  background-image: url("images/3259048519-400x400.jpg");
+  min-height: 365px;
   background-position: 50% 50%;
+  background-image: url("images/3259048519-400x400.jpg");
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -162,12 +174,24 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 523px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 443px;
+  }
+
   .u-section-2 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-2 .u-text-2 {
     font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 443px;
   }
 }
 
@@ -246,7 +270,7 @@
     min-height: 333px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 592px;
+  min-height: 100px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -255,9 +279,9 @@
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 462px;
-  background-image: url("images/izolacni-sterka-1-816x563.webp");
+  min-height: 381px;
   background-position: 22.03% 50%;
+  background-image: url("images/izolacni-sterka-1-816x563.webp");
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -265,7 +289,7 @@
 }
 
 .u-section-3 .u-layout-cell-2 {
-  min-height: 462px;
+  min-height: 381px;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -285,6 +309,18 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 592px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 462px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 462px;
+  }
+
   .u-section-3 .u-text-1 {
     font-size: 3rem;
   }
@@ -369,7 +405,7 @@
     font-size: 1.25rem;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 420px;
+  min-height: 100px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
@@ -378,9 +414,9 @@
 }
 
 .u-section-4 .u-image-1 {
-  min-height: 310px;
-  background-image: url("images/pcipecimor1k-800x558.jpg");
+  min-height: 256px;
   background-position: 50% 50%;
+  background-image: url("images/pcipecimor1k-800x558.jpg");
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -388,7 +424,7 @@
 }
 
 .u-section-4 .u-layout-cell-2 {
-  min-height: 310px;
+  min-height: 256px;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -408,6 +444,18 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 310px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 310px;
+  }
+
   .u-section-4 .u-text-1 {
     font-size: 3rem;
   }
@@ -492,7 +540,7 @@
     font-size: 1.25rem;
   }
 }.u-section-5 .u-sheet-1 {
-  min-height: 513px;
+  min-height: 100px;
 }
 
 .u-section-5 .u-layout-wrap-1 {
@@ -501,7 +549,7 @@
 }
 
 .u-section-5 .u-layout-cell-1 {
-  min-height: 423px;
+  min-height: 349px;
 }
 
 .u-section-5 .u-container-layout-1 {
@@ -521,9 +569,9 @@
 }
 
 .u-section-5 .u-image-1 {
-  min-height: 423px;
-  background-image: url("images/Barraseal_Turbo_4148.jpg");
+  min-height: 349px;
   background-position: 50% 50%;
+  background-image: url("images/Barraseal_Turbo_4148.jpg");
 }
 
 .u-section-5 .u-container-layout-2 {
@@ -531,12 +579,24 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 513px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 423px;
+  }
+
   .u-section-5 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-5 .u-text-2 {
     font-size: 1.5rem;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 423px;
   }
 }
 
@@ -615,7 +675,7 @@
     min-height: 333px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 445px;
+  min-height: 100px;
 }
 
 .u-section-6 .u-layout-wrap-1 {
@@ -624,7 +684,7 @@
 }
 
 .u-section-6 .u-layout-cell-1 {
-  min-height: 315px;
+  min-height: 260px;
 }
 
 .u-section-6 .u-container-layout-1 {
@@ -645,9 +705,9 @@
 }
 
 .u-section-6 .u-image-1 {
-  min-height: 315px;
-  background-image: url("images/pci-barraseal-293x470.jpg");
+  min-height: 260px;
   background-position: 50% 22.46%;
+  background-image: url("images/pci-barraseal-293x470.jpg");
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -655,12 +715,24 @@
 }
 
 @media (max-width: 1399px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 445px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 315px;
+  }
+
   .u-section-6 .u-text-1 {
     font-size: 3rem;
   }
 
   .u-section-6 .u-text-2 {
     font-size: 1.5rem;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 315px;
   }
 }
 
