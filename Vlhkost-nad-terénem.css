@@ -1,40 +1,5 @@
-.u-section-1 .u-sheet-1 {
-  min-height: 100px;
-}
-
-.u-section-1 .u-layout-wrap-1 {
-  margin-top: 60px;
-  margin-bottom: 60px;
-}
-
-.u-section-1 .u-layout-cell-1 {
-  min-height: 346px;
-}
-
-.u-section-1 .u-container-layout-1 {
-  padding: 30px 60px;
-}
-
-.u-section-1 .u-text-1 {
-  font-family: Jost;
-  font-weight: 700;
-  font-size: 1rem;
-  margin: 0 auto 0 0;
-}
-
-.u-section-1 .u-text-2 {
-  font-size: 1rem;
-  margin: 20px 0 0;
-}
-
 .u-section-1 .u-image-1 {
-  min-height: 346px;
-  background-position: 50% 100%;
   background-image: url("images/nakres-nad-terenem.png");
-}
-
-.u-section-1 .u-container-layout-2 {
-  padding: 30px 60px;
 }
 
 @media (max-width: 1399px) {
@@ -42,20 +7,38 @@
     min-height: 599px;
   }
 
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
   .u-section-1 .u-layout-cell-1 {
     min-height: 420px;
   }
 
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px 60px;
+  }
+
   .u-section-1 .u-text-1 {
+    font-family: Jost;
+    font-weight: 700;
     font-size: 3rem;
+    margin: 0 auto 0 0;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.5rem;
+    margin: 20px 0 0;
   }
 
   .u-section-1 .u-image-1 {
     min-height: 420px;
+    background-position: 50% 100%;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding: 30px 60px;
   }
 }
 
@@ -137,43 +120,8 @@
   .u-section-1 .u-image-1 {
     min-height: 259px;
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 100px;
-}
-
-.u-section-2 .u-layout-wrap-1 {
-  margin-top: 70px;
-  margin-bottom: 60px;
-}
-
-.u-section-2 .u-image-1 {
-  min-height: 463px;
-  background-position: 50% 50%;
+}.u-section-2 .u-image-1 {
   background-image: url("images/image7.png");
-}
-
-.u-section-2 .u-container-layout-1 {
-  padding: 30px 60px;
-}
-
-.u-section-2 .u-layout-cell-2 {
-  min-height: 463px;
-}
-
-.u-section-2 .u-container-layout-2 {
-  padding: 30px 60px;
-}
-
-.u-section-2 .u-text-1 {
-  font-family: Jost;
-  font-weight: 700;
-  font-size: 1rem;
-  margin: 0 auto 0 0;
-}
-
-.u-section-2 .u-text-2 {
-  font-size: 1rem;
-  margin: 20px 0 0;
 }
 
 @media (max-width: 1399px) {
@@ -181,20 +129,38 @@
     min-height: 730px;
   }
 
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 70px;
+    margin-bottom: 60px;
+  }
+
   .u-section-2 .u-image-1 {
     min-height: 562px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding: 30px 60px;
   }
 
   .u-section-2 .u-layout-cell-2 {
     min-height: 562px;
   }
 
+  .u-section-2 .u-container-layout-2 {
+    padding: 30px 60px;
+  }
+
   .u-section-2 .u-text-1 {
+    font-family: Jost;
+    font-weight: 700;
     font-size: 3rem;
+    margin: 0 auto 0 0;
   }
 
   .u-section-2 .u-text-2 {
     font-size: 1.5rem;
+    margin: 20px 0 0;
   }
 }
 
