@@ -44286,6 +44286,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: auto;
   }
 
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
+  }
+
   .u-header .u-btn-1 {
     margin-top: 20px;
     margin-right: 30px;
