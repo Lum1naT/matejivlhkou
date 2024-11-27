@@ -12,13 +12,12 @@
 .u-section-2 .u-blog-1 {
   margin-top: 60px;
   margin-bottom: 53px;
-  height: auto;
 }
 
 .u-section-2 .u-repeater-1 {
-  grid-gap: 10px 10px;
   grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-  min-height: 494px;
+  grid-gap: 10px 10px;
+  min-height: 600px;
 }
 
 .u-section-2 .u-repeater-item-1 {
@@ -50,7 +49,6 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   margin: 17px auto 0;
-  padding: 0;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -78,17 +76,6 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   margin: 17px auto 0;
-  padding: 0;
-}
-
-@media (max-width: 1399px) {
-  .u-section-2 .u-blog-1 {
-    height: auto;
-  }
-
-  .u-section-2 .u-repeater-1 {
-    min-height: 600px;
-  }
 }
 
 @media (max-width: 1199px) {
