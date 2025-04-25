@@ -26,14 +26,16 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-family: Jost;
-  font-weight: 700;
+  font-family: "Crimson Pro";
   font-size: 2.47059rem;
+  font-weight: 800;
   margin: 0 auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 1.52941rem;
+  font-size: 1.88235rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 22px 0 0;
 }
 
@@ -78,6 +80,10 @@
 
   .u-section-1 .u-container-layout-2 {
     padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.52941rem;
   }
 }
 
@@ -143,14 +149,15 @@
 }
 
 .u-section-2 .u-text-1 {
-  font-family: Jost;
+  font-family: "Crimson Pro";
   font-weight: 700;
-  font-size: 2.47059rem;
   margin: 0 auto 0 0;
 }
 
 .u-section-2 .u-text-2 {
-  font-size: 1.52941rem;
+  font-size: 1.88235rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 20px 0 0;
 }
 
@@ -290,14 +297,15 @@
 }
 
 .u-section-3 .u-text-1 {
-  font-family: Jost;
+  font-family: "Crimson Pro";
   font-weight: 700;
-  font-size: 2.47059rem;
   margin: 0 auto 0 0;
 }
 
 .u-section-3 .u-text-2 {
-  font-size: 1.52941rem;
+  font-size: 1.76471rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 20px 0 0;
 }
 
@@ -412,14 +420,15 @@
 }
 
 .u-section-4 .u-text-1 {
-  font-family: Jost;
+  font-family: "Crimson Pro";
   font-weight: 700;
-  font-size: 2.47059rem;
   margin: 0 auto 0 0;
 }
 
 .u-section-4 .u-text-2 {
   font-size: 1.52941rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 20px 0 0;
 }
 
@@ -509,7 +518,6 @@
   }
 
   .u-section-4 .u-image-1 {
-    inset: auto;
     height: 267px;
     width: 293px;
   }

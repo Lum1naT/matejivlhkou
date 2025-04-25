@@ -3,7 +3,8 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 70px 0 60px;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -29,15 +30,17 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-family: Jost;
-  font-weight: 600;
+  font-family: "Crimson Pro";
   font-size: 4.11765rem;
+  font-weight: 600;
   margin: 0 0 0 2px;
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 1.5rem;
-  margin: 133px 18px 0;
+  font-size: 2.23529rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
+  margin: 70px 18px 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -46,7 +49,7 @@
   letter-spacing: 0px;
   font-weight: 700;
   font-size: 1.23529rem;
-  margin: 77px auto 0 18px;
+  margin: 141px auto 0 18px;
   padding: 22px 50px 22px 49px;
 }
 
@@ -63,11 +66,6 @@
 }
 
 @media (max-width: 1399px) {
-  .u-section-1 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-1 .u-image-1 {
     width: 369px;
   }
@@ -99,8 +97,6 @@
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 35px;
     margin-bottom: 35px;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -178,6 +174,7 @@
   }
 
   .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
     margin-left: 18px;
     margin-right: 0;
   }
@@ -226,8 +223,6 @@
 
   .u-section-1 .u-layout-wrap-1 {
     margin-bottom: 0;
-    margin-right: initial;
-    margin-left: initial;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -249,7 +244,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-weight: 700;
     font-size: 2.625rem;
     margin-top: 18px;
     margin-left: 19px;
@@ -301,9 +295,9 @@
 }
 
 .u-section-2 .u-text-1 {
-  font-family: Jost;
-  font-weight: 700;
+  font-family: "Crimson Pro";
   font-size: 4.11765rem;
+  font-weight: 600;
   margin: 17px 65px 0;
 }
 
@@ -311,6 +305,8 @@
   font-size: 1.88235rem;
   line-height: 1.4;
   letter-spacing: normal;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 59px 17px 0;
 }
 
@@ -449,18 +445,18 @@
     letter-spacing: 0px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 755px;
+  min-height: 785px;
 }
 
 .u-section-3 .u-text-1 {
-  font-family: Jost;
-  font-weight: 700;
+  font-family: "Crimson Pro";
   font-size: 4.11765rem;
-  margin: 82px auto 0;
+  font-weight: 600;
+  margin: 79px auto 0;
 }
 
 .u-section-3 .u-list-1 {
-  margin-top: 55px;
+  margin-top: 58px;
   margin-bottom: 60px;
 }
 
@@ -478,20 +474,23 @@
   height: 146px;
   width: 146px;
   background-image: none;
-  margin: 39px auto 0;
+  margin: 18px auto 0;
   padding: 27px;
 }
 
 .u-section-3 .u-text-2 {
-  font-weight: 700;
   font-size: 2.25rem;
-  margin: 33px 18px 0;
+  font-family: "Crimson Pro";
+  font-weight: 700;
+  margin: 18px 18px 0;
 }
 
 .u-section-3 .u-text-3 {
-  font-size: 1.25rem;
+  font-size: 1.52941rem;
   letter-spacing: 0px;
-  margin: 33px auto 0;
+  font-family: "Crimson Text";
+  font-weight: 600;
+  margin: 35px 0 0;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -502,20 +501,23 @@
   height: 146px;
   width: 146px;
   background-image: none;
-  margin: 39px auto 0;
+  margin: 18px auto 0;
   padding: 27px;
 }
 
 .u-section-3 .u-text-4 {
-  font-weight: 700;
   font-size: 2.25rem;
-  margin: 33px 18px 0;
+  font-family: "Crimson Pro";
+  font-weight: 700;
+  margin: 18px 18px 0;
 }
 
 .u-section-3 .u-text-5 {
-  font-size: 1.25rem;
+  font-size: 1.52941rem;
   letter-spacing: 0px;
-  margin: 33px auto 0;
+  font-family: "Crimson Text";
+  font-weight: 600;
+  margin: 35px 0 0;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -526,20 +528,23 @@
   height: 146px;
   width: 146px;
   background-image: none;
-  margin: 39px auto 0;
+  margin: 18px auto 0;
   padding: 27px;
 }
 
 .u-section-3 .u-text-6 {
-  font-weight: 700;
   font-size: 2.25rem;
-  margin: 33px 18px 0;
+  font-family: "Crimson Pro";
+  font-weight: 700;
+  margin: 18px 18px 0;
 }
 
 .u-section-3 .u-text-7 {
-  font-size: 1.25rem;
+  font-size: 1.52941rem;
   letter-spacing: 0px;
-  margin: 33px auto 0;
+  font-family: "Crimson Text";
+  font-weight: 600;
+  margin: 35px 0 0;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -550,20 +555,23 @@
   height: 146px;
   width: 146px;
   background-image: none;
-  margin: 39px auto 0;
+  margin: 18px auto 0;
   padding: 27px;
 }
 
 .u-section-3 .u-text-8 {
-  font-weight: 700;
   font-size: 2.25rem;
-  margin: 33px 18px 0;
+  font-weight: 700;
+  font-family: "Crimson Pro";
+  margin: 18px 18px 0;
 }
 
 .u-section-3 .u-text-9 {
-  font-size: 1.25rem;
+  font-size: 1.52941rem;
   letter-spacing: 0px;
-  margin: 33px auto 0;
+  font-family: "Crimson Text";
+  font-weight: 600;
+  margin: 35px 0 0;
 }
 
 @media (max-width: 1399px) {
@@ -618,8 +626,6 @@
     font-size: 1.05882rem;
     width: auto;
     margin-top: 53px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -643,8 +649,6 @@
     font-size: 1.05882rem;
     width: auto;
     margin-top: 53px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-3 .u-container-layout-3 {
@@ -668,8 +672,6 @@
     font-size: 1.05882rem;
     width: auto;
     margin-top: 53px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-3 .u-container-layout-4 {
@@ -693,8 +695,6 @@
     font-size: 1.05882rem;
     width: auto;
     margin-top: 53px;
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
@@ -833,16 +833,17 @@
 }
 
 .u-section-4 .u-text-1 {
-  font-weight: 700;
-  font-family: Jost;
+  font-family: "Crimson Pro";
   font-size: 4.11765rem;
   width: 971px;
+  font-weight: 700;
   margin: 60px auto 0;
 }
 
 .u-section-4 .u-text-2 {
-  font-weight: 400;
-  font-size: 1.82353rem;
+  font-size: 2.23529rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 30px auto 0;
 }
 
@@ -868,14 +869,17 @@
 }
 
 .u-section-4 .u-text-3 {
-  font-weight: 700;
   font-size: 2.52941rem;
+  font-family: "Crimson Pro";
+  font-weight: 700;
   margin: 20px 0 0;
 }
 
 .u-section-4 .u-text-4 {
   font-size: 1.52941rem;
   line-height: 1.5;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 20px 0 0;
 }
 
@@ -899,14 +903,17 @@
 }
 
 .u-section-4 .u-text-5 {
-  font-weight: 700;
   font-size: 2.52941rem;
+  font-family: "Crimson Pro";
+  font-weight: 700;
   margin: 20px 0 0;
 }
 
 .u-section-4 .u-text-6 {
   font-size: 1.52941rem;
   line-height: 1.5;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 20px 0 0;
 }
 
@@ -930,14 +937,17 @@
 }
 
 .u-section-4 .u-text-7 {
-  font-weight: 700;
   font-size: 2.52941rem;
+  font-weight: 700;
+  font-family: "Crimson Pro";
   margin: 20px 0 0;
 }
 
 .u-section-4 .u-text-8 {
   font-size: 1.52941rem;
   line-height: 1.5;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 20px 0 0;
 }
 
@@ -1266,10 +1276,10 @@
 }
 
 .u-section-5 .u-text-1 {
-  font-family: Jost;
-  font-weight: 700;
+  font-family: "Crimson Pro";
   font-size: 4.11765rem;
   width: 687px;
+  font-weight: 700;
   margin: 65px auto 0;
 }
 
@@ -1291,15 +1301,15 @@
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 30px;
+  padding: 0 30px;
 }
 
 .u-section-5 .u-text-2 {
-  margin-left: 0;
-  margin-bottom: 0;
-  margin-top: 270px;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  font-size: 2.25rem;
+  font-size: 1.88235rem;
+  font-weight: 700;
+  font-family: "Roboto Slab", serif;
+  margin: auto 0 0;
 }
 
 .u-section-5 .u-image-2 {
@@ -1308,15 +1318,15 @@
 }
 
 .u-section-5 .u-container-layout-2 {
-  padding: 30px;
+  padding: 0 30px;
 }
 
 .u-section-5 .u-text-3 {
-  margin-left: 0;
-  margin-bottom: 0;
-  margin-top: 270px;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  font-size: 2.25rem;
+  font-size: 1.88235rem;
+  font-weight: 700;
+  font-family: "Roboto Slab", serif;
+  margin: auto 0 0;
 }
 
 .u-section-5 .u-image-3 {
@@ -1325,15 +1335,15 @@
 }
 
 .u-section-5 .u-container-layout-3 {
-  padding: 30px;
+  padding: 0 30px;
 }
 
 .u-section-5 .u-text-4 {
-  margin-left: 0;
-  margin-bottom: 0;
-  margin-top: 270px;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  font-size: 2.25rem;
+  font-size: 1.88235rem;
+  font-weight: 700;
+  font-family: "Roboto Slab", serif;
+  margin: auto 0 0;
 }
 
 .u-section-5 .u-btn-1 {
@@ -1358,13 +1368,11 @@
   .u-section-5 .u-text-2 {
     width: auto;
     margin-top: 0;
-    margin-right: 0;
   }
 
   .u-section-5 .u-text-3 {
     width: auto;
     margin-top: 0;
-    margin-right: 0;
   }
 
   .u-section-5 .u-image-3 {
@@ -1374,7 +1382,6 @@
   .u-section-5 .u-text-4 {
     width: auto;
     margin-top: 0;
-    margin-right: 0;
   }
 }
 
@@ -1429,18 +1436,18 @@
     padding: 16px 77px 17px 76px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 1071px;
+  min-height: 1099px;
 }
 
 .u-section-6 .u-text-1 {
-  font-weight: 700;
-  font-family: Jost;
+  font-family: "Crimson Pro";
   font-size: 4.11765rem;
+  font-weight: 700;
   margin: 33px auto 0;
 }
 
 .u-section-6 .u-layout-wrap-1 {
-  margin-top: 33px;
+  margin-top: 17px;
   margin-bottom: 0;
 }
 
@@ -1459,7 +1466,7 @@
 }
 
 .u-section-6 .u-layout-cell-2 {
-  min-height: 311px;
+  min-height: 341px;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -1467,23 +1474,29 @@
 }
 
 .u-section-6 .u-text-2 {
-  font-size: 2.25rem;
+  font-size: 2.47059rem;
+  font-family: "Crimson Pro";
+  font-weight: 600;
   margin: 0 9px;
 }
 
 .u-section-6 .u-text-3 {
-  font-size: 1.5rem;
+  font-size: 1.64706rem;
+  font-family: "Crimson Pro";
+  font-weight: 600;
   margin: 17px 17px 0 0;
 }
 
 .u-section-6 .u-text-4 {
   font-style: normal;
-  font-size: 1.35294rem;
+  font-size: 1.76471rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 17px 17px 0 0;
 }
 
 .u-section-6 .u-layout-wrap-2 {
-  margin-top: -17px;
+  margin-top: -20px;
   margin-bottom: 0;
 }
 
@@ -1510,25 +1523,30 @@
 }
 
 .u-section-6 .u-text-5 {
-  font-size: 2.25rem;
+  font-size: 2.47059rem;
+  font-family: "Crimson Pro";
+  font-weight: 600;
   margin: 0 17px 0 0;
 }
 
 .u-section-6 .u-text-6 {
-  font-size: 1.5rem;
+  font-size: 1.64706rem;
+  font-family: "Crimson Pro";
+  font-weight: 600;
   margin: 17px 8px 0 0;
 }
 
 .u-section-6 .u-text-7 {
   font-style: normal;
-  font-size: 1.35294rem;
+  font-size: 1.76471rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 17px 17px 0 0;
 }
 
 .u-section-6 .u-layout-wrap-3 {
-  margin-left: 0;
-  margin-top: 10px;
-  margin-bottom: 0;
+  width: 1920px;
+  margin: 29px -4px 0 auto;
 }
 
 .u-section-6 .u-layout-cell-5 {
@@ -1554,24 +1572,34 @@
 }
 
 .u-section-6 .u-text-8 {
-  font-size: 2.25rem;
+  font-size: 2.47059rem;
+  font-family: "Crimson Pro";
+  font-weight: 600;
   margin: 0;
 }
 
 .u-section-6 .u-text-9 {
-  font-size: 1.5rem;
+  font-size: 1.64706rem;
+  font-family: "Crimson Pro";
+  font-weight: 600;
   margin: 17px 0 0;
 }
 
 .u-section-6 .u-text-10 {
   font-style: normal;
-  font-size: 1.35294rem;
+  font-size: 1.76471rem;
+  font-family: "Crimson Text";
+  font-weight: 600;
   margin: 17px 0 0;
 }
 
 @media (max-width: 1399px) {
   .u-section-6 .u-sheet-1 {
     min-height: 797px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 311px;
   }
 
   .u-section-6 .u-text-2 {
@@ -1602,7 +1630,20 @@
   }
 
   .u-section-6 .u-layout-wrap-3 {
-    margin-left: initial;
+    width: 1280px;
+    margin-right: 0;
+  }
+
+  .u-section-6 .u-layout-cell-5 {
+    min-height: 207px;
+  }
+
+  .u-section-6 .u-image-3 {
+    height: 158px;
+  }
+
+  .u-section-6 .u-layout-cell-6 {
+    min-height: 207px;
   }
 
   .u-section-6 .u-text-9 {
@@ -1658,20 +1699,19 @@
   }
 
   .u-section-6 .u-layout-wrap-3 {
-    margin-top: 20px;
-    margin-left: initial;
+    width: 940px;
   }
 
   .u-section-6 .u-layout-cell-5 {
-    min-height: 100px;
+    min-height: 152px;
   }
 
   .u-section-6 .u-image-3 {
-    height: 336px;
+    height: 109px;
   }
 
   .u-section-6 .u-layout-cell-6 {
-    min-height: 396px;
+    min-height: 152px;
   }
 
   .u-section-6 .u-text-8 {
@@ -1727,8 +1767,16 @@
     position: relative;
   }
 
+  .u-section-6 .u-layout-wrap-3 {
+    width: 720px;
+  }
+
+  .u-section-6 .u-layout-cell-5 {
+    min-height: 368px;
+  }
+
   .u-section-6 .u-image-3 {
-    height: 813px;
+    height: 303px;
     object-position: 50% 0%;
     background-position: 50% 0%;
   }
@@ -1770,6 +1818,10 @@
     padding-right: 10px;
   }
 
+  .u-section-6 .u-text-2 {
+    font-size: 2.25rem;
+  }
+
   .u-section-6 .u-text-3 {
     margin-left: 235px;
     font-size: 1rem;
@@ -1793,6 +1845,10 @@
     padding-right: 10px;
   }
 
+  .u-section-6 .u-text-5 {
+    font-size: 2.25rem;
+  }
+
   .u-section-6 .u-text-6 {
     margin-left: 235px;
     font-size: 1rem;
@@ -1803,18 +1859,30 @@
     font-size: 1rem;
   }
 
+  .u-section-6 .u-layout-wrap-3 {
+    width: 540px;
+  }
+
+  .u-section-6 .u-layout-cell-5 {
+    min-height: 276px;
+  }
+
   .u-section-6 .u-container-layout-5 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
   .u-section-6 .u-image-3 {
-    height: 610px;
+    height: 239px;
   }
 
   .u-section-6 .u-container-layout-6 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-6 .u-text-8 {
+    font-size: 2.25rem;
   }
 
   .u-section-6 .u-text-9 {
@@ -1833,11 +1901,6 @@
 
   .u-section-6 .u-text-1 {
     width: auto;
-    margin-top: 45px;
-  }
-
-  .u-section-6 .u-layout-wrap-1 {
-    margin-top: 21px;
   }
 
   .u-section-6 .u-image-1 {
@@ -1872,12 +1935,16 @@
     margin-left: 0;
   }
 
-  .u-section-6 .u-image-3 {
-    height: 384px;
+  .u-section-6 .u-layout-wrap-3 {
+    width: 340px;
   }
 
-  .u-section-6 .u-layout-cell-6 {
-    min-height: 295px;
+  .u-section-6 .u-layout-cell-5 {
+    min-height: 174px;
+  }
+
+  .u-section-6 .u-image-3 {
+    height: 147px;
   }
 
   .u-section-6 .u-text-8 {
@@ -1892,9 +1959,9 @@
 }
 
 .u-section-7 .u-text-1 {
-  font-weight: 700;
-  font-family: Jost;
+  font-family: "Crimson Pro";
   font-size: 4.11765rem;
+  font-weight: 700;
   margin: 55px auto 0;
 }
 
