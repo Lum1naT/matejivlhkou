@@ -93,12 +93,24 @@ actions tied to the current ChatGPT user. Leave public content anonymous.
 - `npm run install:ci`: perform the one bounded lockfile install
 - `npm run dev`: start the Vite/Vinext development server
 - `npm run build`: build and validate the deployable Sites artifact
+- `npm run build:pages`: create the static GitHub Pages export in `out/`
 - `npm run start`: start the built Vinext application
 - `npm test`: build, validate, and verify the rendered development-preview metadata
 - `npm run validate:artifact`: recheck an existing artifact's manifest and ESM `default.fetch` export
 - `npm run db:generate`: generate Drizzle migrations after schema changes
 
 Use build and validation commands for targeted diagnosis after a remote failure, not as part of the normal checkpoint path.
+
+## GitHub Pages
+
+The repository includes `.github/workflows/deploy-pages.yml`. Pull requests
+validate the static export, and pushes to `main` publish the generated `out/`
+directory through GitHub Pages. The custom domain is copied into the export
+from `public/CNAME`.
+
+Before the first workflow deployment, set the repository's Pages source to
+**GitHub Actions** in **Settings → Pages → Build and deployment**. Keep
+`izolacevlhkosti.cz` configured as the custom domain.
 
 The timeout defaults can be overridden for a controlled canary with `SITES_INSTALL_TIMEOUT`, `SITES_INSTALL_KILL_AFTER`, `SITES_BUILD_TIMEOUT`, and `SITES_BUILD_KILL_AFTER`. A timeout fails the command; the helpers never retry an unchanged install or build.
 

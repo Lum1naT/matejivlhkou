@@ -28,7 +28,7 @@ img { display: block; max-width: 100%; }
 .header-phone span { color: #d8d8d3; font-size: 10px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
 .mobile-menu { display: none; }
 
-.hero { position: relative; min-height: 790px; display: flex; align-items: center; color: var(--white); background-image: url("https://www.izolacevlhkosti.cz/wp-content/uploads/2026/01/20220121-105146-596x795-1.jpeg"); background-size: cover; background-position: center 44%; overflow: hidden; }
+.hero { position: relative; min-height: 790px; display: flex; align-items: center; color: var(--white); background-image: url("/images/hero-injection.jpeg"); background-size: cover; background-position: center 44%; overflow: hidden; }
 .hero-shade { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(10,11,9,.94) 0%, rgba(10,11,9,.72) 46%, rgba(10,11,9,.2) 100%), linear-gradient(0deg, rgba(10,11,9,.48), transparent 45%); }
 .hero::before { content: ""; position: absolute; z-index: 1; width: 34vw; height: 120%; right: -15vw; top: -10%; border: 1px solid rgba(255,255,255,.13); transform: skew(-12deg); }
 .hero-content { position: relative; z-index: 2; padding-top: 86px; padding-bottom: 135px; }

@@ -4,24 +4,21 @@ const serviceCards = [
     title: "Chemická injektáž zdiva",
     text: "Šetrná bariéra proti vzlínající vlhkosti bez zásahu do statiky domu.",
     price: "od 2 100 Kč / m²",
-    image:
-      "https://www.izolacevlhkosti.cz/wp-content/uploads/2026/01/20220121-105146-596x795-1.jpeg",
+    image: "/images/hero-injection.jpeg",
   },
   {
     number: "02",
     title: "Izolační stěrky",
     text: "Minerální a bitumenová ochrana proti zemní, dešťové i tlakové vodě.",
     price: "od 1 200 Kč / m²",
-    image:
-      "https://www.izolacevlhkosti.cz/wp-content/uploads/2026/01/03-hydroizolan-strka-596x396-1.webp",
+    image: "/images/hydroizolacni-sterka.webp",
   },
   {
     number: "03",
     title: "Sanační omítky",
     text: "Prodyšný sanační systém, který odvádí vlhkost a bezpečně ukládá soli.",
     price: "od 1 100 Kč / m²",
-    image:
-      "https://www.izolacevlhkosti.cz/wp-content/uploads/2026/01/20220719-131832-596x447-1.webp",
+    image: "/images/sanacni-omitka.webp",
   },
 ];
 
@@ -44,22 +41,19 @@ const references = [
     title: "Hasičárna Lišov",
     place: "Lišov",
     text: "Dodatečná izolace vlhkých stěn, těsnicí stěrky na vnitřní zdivo a sanační omítka na fasádu.",
-    image:
-      "https://www.izolacevlhkosti.cz/wp-content/uploads/2026/01/DSC01490-scaled-e1768337242142-1024x582.jpg",
+    image: "/images/reference-lisov.jpg",
   },
   {
     title: "Biskupství",
     place: "Jindřichův Hradec",
     text: "Injektáž vlhkého zdiva, vnitřní těsnicí stěrka a kompletní systém sanačních omítek.",
-    image:
-      "https://www.izolacevlhkosti.cz/wp-content/uploads/2026/01/DSC01418-scaled-e1768336478110-1024x760.webp",
+    image: "/images/reference-biskupstvi.webp",
   },
   {
     title: "Minipivovar Solnice",
     place: "České Budějovice",
     text: "Dodatečná izolace zdiva injektáží, těsnicí stěrky v pivovaru a sanační omítky v obou objektech.",
-    image:
-      "https://www.izolacevlhkosti.cz/wp-content/uploads/2026/01/DSC01498-scaled-e1768336539631-1024x997.jpg",
+    image: "/images/reference-solnice.webp",
   },
 ];
 
