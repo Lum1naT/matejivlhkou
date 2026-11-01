@@ -62,7 +62,7 @@ export default function Home() {
     <main>
       <header className="site-header">
         <a className="brand" href="#domu" aria-label="FTIZOL – domů">
-          <img className="brand-logo" src="/ftizol-logo.svg" alt="FTIZOL" />
+          <img className="brand-logo" src="/ftizol-logo-original.png" alt="FTIZOL" />
         </a>
         <nav className="desktop-nav" aria-label="Hlavní navigace">
           <a href="#reseni">Řešení</a>
@@ -265,7 +265,7 @@ export default function Home() {
       <footer className="site-footer">
         <div className="shell footer-layout">
           <a className="brand" href="#domu" aria-label="FTIZOL – zpět nahoru">
-            <img className="brand-logo" src="/ftizol-logo.svg" alt="FTIZOL" />
+            <img className="brand-logo" src="/ftizol-logo-original.png" alt="FTIZOL" />
           </a>
           <div><a href="mailto:ftizolace@gmail.com">ftizolace@gmail.com</a><span>IČO: 07407211</span></div>
           <p>© 2026 FTIZOL. Všechna práva vyhrazena.</p>
