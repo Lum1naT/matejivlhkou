@@ -9,8 +9,8 @@ export const metadata: Metadata = {
     "codex-preview": "development",
   },
   icons: {
-    icon: [{ url: "/ftizol-logo.svg?v=2", type: "image/svg+xml" }],
-    shortcut: "/ftizol-logo.svg?v=2",
+    icon: [{ url: "/favicon.svg?v=3", type: "image/svg+xml" }],
+    shortcut: "/favicon.svg?v=3",
   },
 };
 
